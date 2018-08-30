@@ -1,1 +1,2 @@
-# Styles exported from the G2 Design System (InVision DSM generated)
+# Styles exported from the G2 Design System 
+## Generated from InVision DSM
